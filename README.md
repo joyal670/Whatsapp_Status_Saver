@@ -4,4 +4,4 @@ Load watched status from internal storage.
 Click any loaded status and click save button.
 Click on downloads button and view saved status.
 Select any one saved status and share it directly on Whatsapp.
-And thereby you can repost the status
+And thereby you can repost the status.
